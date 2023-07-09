@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ranjith</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithran&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithran" /> </p>
 
-- 🔭 I’m currently working on [Money Management (Flutter App)](https://github.com/ranjithran/MoneyManagement)
+- 🔭 I’m currently working on existing project
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning/Mastering  **Spring**
 
-- 💬 Ask me about **Flutter, SalesForce**
+- 💬 Ask me about **Flutter, SalesForce, Spring, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
