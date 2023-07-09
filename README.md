@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ranjith</h1>
+<h1 align="center">Hi There 👋</h1>
 
-This is the place where I break things :rofl:
+This is the place where I break things and fix :rofl:
 
 - 🔭 &nbsp;I’m currently working on **something cool** :wink:
 
