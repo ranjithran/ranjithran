@@ -1,12 +1,12 @@
-<h1 align="center">Hi There 👋</h1>
+<h1>Hi There 👋</h1>
 
-This is the place where I break things and fix :rofl:
+This is the place where I show my broken things 😂
 
-- 🔭 &nbsp;I’m currently working on **something cool** :wink:
+- 🔭 &nbsp;I’m currently working on **something cool** 😉
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 &nbsp;I’m currently learning **Spring** ✌️
 
-- 💬 Ask me about **Flutter, Js, Spring, SalesForce**
+- 💬 &nbsp;Ask me about **Flutter, Js, Spring, SalesForce** 😎
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
