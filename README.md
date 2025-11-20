@@ -5,7 +5,7 @@ Welcome to my GitHub—where I break things so you don’t have to.
 
 - 🔭  Currently working on something revolutionary (or just another bug fix, who knows? 🙃)  
 - 🌱  Learning something that will be outdated next week ✌️
-- 💬  Ask me about Flutter, JS, Spring, SalesForce, or anything else—except AI (Sry Started this shit), because I like my sanity. 😎  
+- 💬  Ask me about Flutter, JS, Spring, SalesForce. 
 
 ## 📡 Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ranjith-murthi/)
